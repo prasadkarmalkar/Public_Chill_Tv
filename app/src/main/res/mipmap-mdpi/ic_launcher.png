@@ -1,0 +1,44 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Satta\\AndroidStudioProjects\\ChillTv2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Satta\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.3.4.aar\\901f9d94cf52aa2ced8508ddadb44912\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "106",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5642",
+                        "endColumns": "110",
+                        "endOffsets": "5748"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Satta\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\989f8c57667ee54e8524225247a3df02\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "5835",
+                        "endColumns": "100",
+                        "endOffsets": "5931"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Satta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\733ba13b5e60c7fb4c9c70db3065ff1b\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+     
